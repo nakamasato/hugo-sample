@@ -1,4 +1,4 @@
-baseURL = "https://nakamasato.github.io/hugo-sample"
+baseURL = "hugo-sample"
 languageCode = "en-us"
 title = "Hugo Sample"
 themesDir = "themes"
