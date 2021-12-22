@@ -1,9 +1,9 @@
-baseURL = "hugo-sample"
+baseURL = "https://about.nakamasato.com/hugo-sample"
 languageCode = "en-us"
 title = "Hugo Sample"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
-
+# googleAnalytics = 'G-9NTB93RVPJ'
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
@@ -28,7 +28,7 @@ summaryLength = 30
     weight = 2
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-9NTB93RVPJ"
   homepage_button_link = '/docs'
   homepage_button_text = 'Read The Docs'
 
