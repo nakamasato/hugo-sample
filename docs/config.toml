@@ -1,4 +1,4 @@
-baseURL = "hugo-sample"
+baseURL = "https://about.nakamasato.com/hugo-sample"
 languageCode = "en-us"
 title = "Hugo Sample"
 themesDir = "themes"
